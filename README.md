@@ -5,3 +5,5 @@ class student:
         self.lastname = lastname
         self.date_of_birth = date_of_birth
         self.klassenlehrer= klassenlehrer
+
+# 123
