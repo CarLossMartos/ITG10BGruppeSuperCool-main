@@ -1,5 +1,6 @@
 class Course:
-    def __int__(self, name: str, date: date, level: int):
-        self.weiht = weight
+
+    def __int__(self,weight: str, name: str, date: str, level: int):
+        self.weight = weight
         self.date = date
         self.level = level

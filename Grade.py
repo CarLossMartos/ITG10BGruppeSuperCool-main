@@ -1,5 +1,5 @@
 class Grade:
-    def __int__(self, weight: float, date: date, level: int):
-        self.weiht = weight
+    def __int__(self, weight: float, date: str, level: int):
+        self.weight = weight
         self.date = date
         self.level = level
